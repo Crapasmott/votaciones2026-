@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Base de datos SQLite del backend (nunca se versiona)
+server/*.db
+server/*.db-shm
+server/*.db-wal
